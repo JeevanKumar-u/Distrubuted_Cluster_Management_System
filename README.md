@@ -51,8 +51,8 @@ The health monitoring system works through:
 
 ### Installation
 Clone the repository:
-```sh
- git clone https://github.com/likhith-gowda-2004/256_274_296_306_Distributed_Systems_cluster_simulation_Framework.git
+```sh[
+ git clone https://github.com/JeevanKumar-u/Distrubuted_Cluster_Management_System.git
  cd kubernetes-simulator
 ```
 
