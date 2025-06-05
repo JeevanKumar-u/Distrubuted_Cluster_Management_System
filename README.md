@@ -88,17 +88,27 @@ Install dependencies and start the frontend development server:
 2. Enter a node ID and CPU cores.
 3. Click "Add Node" to add the node to the cluster.
 
+![Screenshot From 2025-06-05 14-30-50](https://github.com/user-attachments/assets/5773051c-ef7b-4b0d-b63b-fb883d2461d1)
+![Screenshot From 2025-06-05 14-30-38](https://github.com/user-attachments/assets/3e07bdbc-6ac0-4968-9d3b-ba3f47d8f63f)
+
 ### Deploying Pods
 1. Navigate to the Pod Scheduling interface.
 2. Enter pod ID, CPU requirements, and select a scheduling strategy.
 3. The scheduling preview will show where the pod will be placed.
 4. Click "Deploy Pod" to schedule the pod.
 
+![Screenshot From 2025-06-05 14-32-45](https://github.com/user-attachments/assets/a6ee7a68-3e78-4955-a991-6ebe0085db07)
+![Screenshot From 2025-06-05 14-32-31](https://github.com/user-attachments/assets/31357541-0e98-4b7d-a468-1596ae66f1fd)
+
+
+
 ### Testing Health Monitoring
 1. Navigate to the Health Monitoring dashboard.
 2. Use the "Mark Unhealthy" button on a node to simulate node failure.
 3. Observe how pods are automatically rescheduled to other healthy nodes.
 4. Use "Restore All Nodes" to reset the system state.
+![Screenshot From 2025-06-05 14-33-25](https://github.com/user-attachments/assets/f4c2737b-a28d-4da1-9631-42e734eec71f)
+
 
 ## API Endpoints
 
@@ -129,3 +139,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Docker** - Container virtualization.
 - **Next.js & React** - Frontend framework.
 - **MongoDB** - Database storage.
+
+
+
+
